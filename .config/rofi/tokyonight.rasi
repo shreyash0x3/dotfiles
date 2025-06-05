@@ -29,8 +29,10 @@ window {
     //height: 500;
 
     orientation: horizontal;
-    location: center;
-    anchor: center;
+    location: 6;    // bottom-right
+anchor: southeast;
+x-offset: -40;
+y-offset: -40;
     transparency: "screenshot";
     border-color: @transparent;   
     border: 0px;

@@ -4,7 +4,7 @@ configuration{
     show-icons: true;
     terminal: "alacritty";
     drun-display-format: "{icon} {name}";
-    location: 0;
+    location: 5;
     disable-history: false;
     sidebar-mode: false;
     display-drun: " ";
@@ -26,4 +26,5 @@ configuration{
     kb-move-char-forward: "Control+f";
     kb-mode-complete: "Control+o";
 }
+
 @theme "./tokyonight.rasi"
