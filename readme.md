@@ -7,6 +7,8 @@ repo includes - </br>
 4] Kitty <br>
 5] Starship <br>
 <br>
-this is how it looks - 
-![image](./config-in-use.png)
+this is how it looks - </br>
+<a href="https://ibb.co/KcZXv6nV">
+  <img src="https://i.ibb.co/JWLKJnZr/config-in-use.png" alt="config-in-use" border="0" />
+</a>
 </samp>
