@@ -11,6 +11,7 @@ $nodejs\
 $rust\
 $golang\
 $java\
+$python\
 $php\
 [](fg:#212736 bg:#1d2230)\
 $time\
@@ -40,6 +41,11 @@ format = '[[($all_status$ahead_behind )](fg:#769ff0 bg:#394260)]($style)'
 
 [nodejs]
 symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
+
+[python]
+symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 
