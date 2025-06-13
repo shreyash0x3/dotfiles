@@ -44,5 +44,5 @@ if [ -f "$TIMER_FILE" ]; then
 fi
 
 # When timer is idle
-echo "50:00"
+echo "%{F#00AFFF} 󰄉 %{F-}"
 exit 0

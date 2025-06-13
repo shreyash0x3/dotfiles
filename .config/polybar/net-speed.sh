@@ -13,4 +13,4 @@ TXBPS=$((TX2 - TX1))
 RXMB=$(awk "BEGIN {printf \"%.2f\", $RXBPS / 1024 / 1024}")
 TXMB=$(awk "BEGIN {printf \"%.2f\", $TXBPS / 1024 / 1024}")
 
-echo " ${RXMB} MB/s"
+echo "%{F#00AFFF} %{F-} ${RXMB} MB/s"
