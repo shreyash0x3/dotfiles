@@ -14,27 +14,32 @@
         },
         {
             "type": "cpu",
-            "key": " cpu",
+            "key": " Cpu",
             "keyColor": "green"
         },
         {
             "type": "gpu",
-            "key": " gpu",
+            "key": " Gpu",
             "keyColor": "green"
         },
         {
             "type": "memory",
-            "key": " memory",
+            "key": " Memory",
             "keyColor": "green"
         },
         {
             "type": "disk",
-            "key": " disk",
+            "key": " Disk",
+            "keyColor": "green"
+        },
+        {
+            "type": "display",
+            "key": " Display",
             "keyColor": "green"
         },
         {
             "type": "battery",
-            "key": " battery",
+            "key": " Battery",
             "keyColor": "green"
         },
         {
@@ -49,6 +54,16 @@
         {
             "type": "os",
             "key": " OS",
+            "keyColor": "blue"
+        },
+        {
+            "type": "wm", 
+            "key": " WM",  
+            "keyColor": "blue"       
+        },
+        {
+            "type": "terminalfont",
+            "key": " Font",
             "keyColor": "blue"
         },
         {
