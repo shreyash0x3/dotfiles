@@ -16,5 +16,5 @@ previous setup (linux mint with rofi | polybar | kitty | fastfetch)</br>
 <br>
 <br>
 setup I use rn(Arch Linux btw with Hyprland | wofi | waybar | and more)
-<img src="https://i.ibb.co/B2MDr1CT/arch.jpg" alt="arch" border="0">
+<img src="https://i.ibb.co/5hHDn7Rs/arch.jpg" alt="arch" border="0" />
 </samp>
