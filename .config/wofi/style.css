@@ -1,14 +1,16 @@
 window {
-  font-family: "SF Pro Display";
+  font-family: "Iosevka Nerd Font";
   font-weight: normal;
   font-size: 16px;
   border: 1px solid #313244;
   background-color: transparent;
   border-radius: 12px;
+  margin-bottom: 50px;
+  margin-right: 50px;
 }
 
 #outer-box {
-  border: 1px solid #313244;
+  border: 1.3px solid #dacae5;
   border-radius: 12px;
   background-color: #11111b;
 }

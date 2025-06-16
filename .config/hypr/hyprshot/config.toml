@@ -1,0 +1,4 @@
+save_dir = "~/Pictures/Hyprshot"
+clipboard = true
+notify = true
+file_format = "screenshot-%Y-%m-%d_%H-%M-%S.png"

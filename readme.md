@@ -6,9 +6,15 @@ repo includes - </br>
 3] Fastfetch <br>
 4] Kitty <br>
 5] Starship <br>
+6] Waybar <br>
+7] Hyprland <br>
+8] Wofi <br>
+9] Dunst <br>
 <br>
-this is how it looks - </br>
-<a href="https://ibb.co/KcZXv6nV">
-  <img src="https://i.ibb.co/JWLKJnZr/config-in-use.png" alt="config-in-use" border="0" />
-</a>
+previous setup (linux mint with rofi | polybar | kitty | fastfetch)</br>
+<img src="https://i.ibb.co/JWLKJnZr/config-in-use.png" alt="config-in-use" border="0" />
+<br>
+<br>
+setup I use rn(Arch Linux btw with Hyprland | wofi | waybar | and more)
+<img src="https://i.ibb.co/B2MDr1CT/arch.jpg" alt="arch" border="0">
 </samp>
